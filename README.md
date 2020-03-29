@@ -1,6 +1,6 @@
 # Belly Button Biomes
 
-This visualization explore microbes inhabiting human navels. Data is from the Rob Dunn lab.
+This is an interactive dashboard that explores microbes colonizing human navels. The [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/) is taken from the Rob Dunn lab.
 
 See the visualization here!
 Data includes demographic information, belly button wash frequency and types of bacteria found. Microbes are reffered to by their Operational Taxonomic Unit (OTU) number. All charts are made using Plotly.js.
